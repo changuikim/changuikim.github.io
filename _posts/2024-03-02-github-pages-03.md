@@ -7,10 +7,6 @@ categories: ["GitHub Pages"]
 tags: ["GitHub Pages"]
 ---
 
-# [GitHub Pages] - 3 Pages 만들기
-
-2024년 3월 2일 
-
 # 1 Default 설정 추가
 
 - scope

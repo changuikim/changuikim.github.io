@@ -7,10 +7,6 @@ categories: ["GitHub Pages"]
 tags: ["GitHub Pages"]
 ---
 
-# [GitHub Pages] - 2 Minimal Mistakes 환경설정
-
-2024년 3월 2일 
-
 # 1 Site Settings
 
 - locale

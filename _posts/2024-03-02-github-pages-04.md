@@ -7,8 +7,6 @@ categories: ["GitHub Pages"]
 tags: ["GitHub Pages"]
 ---
 
-# [GitHub Pages] - 4 상단 메뉴 구성하기
-
 # 1 _config.yml 수정하기
 
 - Archives에 type과 path를 설정

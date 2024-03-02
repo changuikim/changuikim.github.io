@@ -7,10 +7,6 @@ categories: ["GitHub Pages"]
 tags: ["GitHub Pages"]
 ---
 
-# [GitHub Pages] - 1 Jekyll Theme을 사용해 블로그 생성하기
-
-2024년 3월 2일 
-
 # 1 개발 환경 구축하기
 
 ## 1) Ruby

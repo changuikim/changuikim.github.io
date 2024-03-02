@@ -281,15 +281,18 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: ""              # 모든 경로에 스코프를 적용
+      type: posts           # 포스트 타입에 스코프를 적용
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      layout: single        # 레이아웃
+      author_profile: true  # 내 프로필을 사이드바에 표시
+      read_time: true       # 한 포스트를 다 읽는데 걸리는 추측 시간을 표시
+      comments: # true      # 댓글 기능
+      share: false          # 소셜 공유 기능
+      related: true         # 관련 포스트 추천
+      toc: true             # 현재 페이지의 목차
+      # sidebar:
+        # nav: main-sidebar        
   # _pages
   - scope:
       path: ""
@@ -299,5 +302,8 @@ defaults:
       author_profile: true
       read_time: false
       comments: # false
-      share: true
+      share: false
       related: false
+      toc: false
+      # sidebar:
+        # nav: main-sidebar

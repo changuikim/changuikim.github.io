@@ -1,11 +1,13 @@
 ---
 title: "[GitHub Pages] - 3 Pages 만들기"
 layout: single
-date: "2024-03-02 21:24:11 +0900"
-last_modified_at: "2024-03-02 21:24:11 +0900"
+tags: ["Blog"]
 categories: ["GitHub Pages"]
-tags: ["GitHub Pages"]
+date: "2024-03-02 21:24:11 +0900"
+last_modified_at: "2024-03-04 21:26:00 +0900"
 ---
+
+생성 날짜에 영향받지 않는 페이지를 생성하기
 
 # 1 Default 설정 추가
 

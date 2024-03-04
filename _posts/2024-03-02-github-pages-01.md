@@ -1,11 +1,13 @@
 ---
 title: "[GitHub Pages] - 1 Jekyll Theme을 사용해 블로그 생성하기"
 layout: single
-date: "2024-03-02 20:41:12 +0900"
-last_modified_at: "2024-03-02 20:41:12 +0900"
+tags: ["Blog"]
 categories: ["GitHub Pages"]
-tags: ["GitHub Pages"]
+date: "2024-03-02 20:41:12 +0900"
+last_modified_at: "2024-03-04 20:25:00 +0900"
 ---
+
+Jekyll 테마를 사용할 수 있는 개발 환경을 구축하고 샘플 블로그를 저장소에 푸시
 
 # 1 개발 환경 구축하기
 

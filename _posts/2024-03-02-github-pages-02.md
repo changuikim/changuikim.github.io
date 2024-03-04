@@ -1,11 +1,13 @@
 ---
 title: "[GitHub Pages] - 2 Minimal Mistakes 환경설정"
 layout: single
-date: "2024-03-02 20:47:25 +0900"
-last_modified_at: "2024-03-02 20:47:25 +0900"
+tags: ["Blog"]
 categories: ["GitHub Pages"]
-tags: ["GitHub Pages"]
+date: "2024-03-02 20:47:25 +0900"
+last_modified_at: "2024-03-04 20:25:00 +0900"
 ---
+
+Jekyll 테마로 생성한 샘플 블로그를 _config.yml을 수정해서 커스터마이징
 
 # 1 Site Settings
 

@@ -1,11 +1,13 @@
 ---
 title: "[GitHub Pages] - 4 상단 메뉴 구성하기"
 layout: single
-date: "2024-03-02 21:59:54 +0900"
-last_modified_at: "2024-03-02 21:59:54 +0900"
+tags: ["Blog"]
 categories: ["GitHub Pages"]
-tags: ["GitHub Pages"]
+date: "2024-03-02 21:59:54 +0900"
+last_modified_at: "2024-03-04 20:20:00 +0900"
 ---
+
+페이지를 표시할 상단 메뉴를 구성하기
 
 # 1 _config.yml 수정하기
 

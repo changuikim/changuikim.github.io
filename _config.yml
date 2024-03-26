@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Changuikim의 개발자 블로그"
+title                    : "changuikim의 개발자 블로그"
 title_separator          : "-"
 subtitle                 : "Version 0.1" # site tagline that appears below site title in masthead
-name                     : "Changui Kim"
-description              : "웹 개발을 하며 생각과 고민을 기록하는 블로그"
+name                     : "changuikim"
+description              : "웹 개발과 관련된 지식과 생각을 정리하는 블로그"
 url                      : "https://changuikim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/changuikim/changuikim.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changui Kim"
+  name             : "changuikim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "신입 웹 개발자"
   location         : "Republic of Korea"

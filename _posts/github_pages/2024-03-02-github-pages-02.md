@@ -4,7 +4,7 @@ layout: single
 tags:
     - Blog
 categories: 
-    - GitHub Pages
+    - GitHubPages
 date: 2024-03-02 20:47:25 +0900
 last_modified_at: 2024-03-26 23:23:00 +0900
 ---

@@ -4,9 +4,9 @@ layout: single
 tags:
     - Blog
 categories: 
-    - GitHub Pages
-date: "2024-03-02 21:24:11 +0900"
-last_modified_at: "2024-03-26 23:43:00 +0900"
+    - GitHubPages
+date: 2024-03-02 21:24:11 +0900
+last_modified_at: 2024-03-26 23:43:00 +0900
 ---
 _config.yml 파일 수정, About 페이지 추가, 404 페이지 추가
 

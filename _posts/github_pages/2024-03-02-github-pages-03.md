@@ -1,15 +1,18 @@
 ---
 title: "[GitHub Pages] - 3 Pages 만들기"
 layout: single
-tags: ["Blog"]
-categories: ["GitHub Pages"]
+tags:
+    - Blog
+categories: 
+    - GitHub Pages
 date: "2024-03-02 21:24:11 +0900"
-last_modified_at: "2024-03-04 21:26:00 +0900"
+last_modified_at: "2024-03-26 23:43:00 +0900"
 ---
+_config.yml 파일 수정, About 페이지 추가, 404 페이지 추가
 
-생성 날짜에 영향받지 않는 페이지를 생성하기
+# 1 Jekyll 설정 파일에 페이지 관련 설정을 추가
 
-# 1 Default 설정 추가
+## 1.1 Default 설정을 추가
 
 - scope
     - path: 스코프를 적용할 경로
@@ -23,7 +26,7 @@ last_modified_at: "2024-03-04 21:26:00 +0900"
     - related: 관련 포스트 추천
     - toc: 현재 페이지의 목차 표시
 
-# 2 포스트별 적용하는 옵션
+## 1.2 포스트별로 적용 가능한 프로퍼티
 
 - title: 포스트 제목
 - layout: 레이아웃
@@ -33,29 +36,24 @@ last_modified_at: "2024-03-04 21:26:00 +0900"
 - categories: 카테고리
 - tags: 태그
 
-# 3 About 페이지 추가
+# 2 날짜 정보와 상관없는 페이지 포스트를 추가
 
-- 블로그 소개글
+## 2.1 About 페이지
 
 ```markdown
 ---
-title: "Changui Kim의 개발자 블로그"
+title: "changuikim의 개발자 블로그"
 permalink: /about/
 layout: single
 ---
 
-## Changui Kim의 개발자 블로그
-
-- 웹 개발을 하며 생각과 고민을 기록하는 블로그입니다.  
-- SpringFramework를 사용해 웹 애플리케이션을 개발합니다.
-- Node.js를 사용해 웹 애플리케이션을 개발합니다.
-- React를 사용해 싱글 페이지 애플리케이션을 개발합니다.
-- Java, Python을 사용해 자료구조와 알고리즘을 공부합니다.
+- 웹 개발과 관련된 지식과 생각을 기록하는 블로그입니다.
+- JavaScript와 React를 사용해 프론트엔드 개발을 합니다.
+- Java와 Spring을 사용해 백엔드 개발을 합니다.
+- Node.js를 사용해 백엔드 개발을 합니다.
 ```
 
-# 4 404 페이지 추가
-
-- 404 Not Found 오류에 대응할 페이지
+## 2.2 404 에러 페이지
 
 ```markdown
 ---

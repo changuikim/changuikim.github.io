@@ -1,0 +1,25 @@
+<!-- start custom footer snippets -->
+<!-- Back to Top Button -->
+{% if page.back_to_top_enabled %}
+<div id="back-to-top" style="display: none;">
+  <a href="#top">↑ Top</a>
+</div>
+
+<script>
+document.addEventListener("scroll", function() {
+  var scrollPosition = window.scrollY || document.documentElement.scrollTop;
+  var button = document.getElementById('back-to-top');
+  
+  if (scrollPosition > 500) { // 스크롤이 500px 이상 내려가면 버튼이 보이게 합니다.
+    button.style.display = 'block';
+  } else {
+    button.style.display = 'none';
+  }
+});
+
+document.getElementById('back-to-top').addEventListener('click', function() {
+  window.scrollTo({top: 0, behavior: 'smooth'}); // 부드럽게 최상단으로 스크롤
+});
+</script>
+{% endif %}
+<!-- end custom footer snippets -->
